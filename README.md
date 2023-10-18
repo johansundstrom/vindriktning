@@ -17,7 +17,7 @@
 ## Anslutning
 
 | Vindriktning | D1 Mini |
-+--|--+
+|--|--|
 | +5V | +5V |
 | GND | GND |
 | REST | D2 |
