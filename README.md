@@ -1,18 +1,22 @@
 # Vindriktning till Home Assistant
 
-* IKEA Vindriktning (~100SEK) https://www.ikea.com/se/sv/p/vindriktning-luftkvalitetsmaetare-70498242/
-* Mäter PM25 (particulate matter 2.5µg/m2)
-* Drivs med 5VDC från USB, ingen spänningsregulator på kortet
-
-## WeMos D1 Mini
-
-* Spänningsregulator: inbyggd
-* Arkitektur: ESP8266 
-
 ## BOM
 
 * IKEA Vindriktning
 * WeMos D1 Mini eller liknande
+
+## IKEA Vindriktning
+
+* (fynd ~100SEK) https://www.ikea.com/se/sv/p/vindriktning-luftkvalitetsmaetare-70498242/
+* Mäter PM25 (particulate matter 2.5µg/m^2)
+* Drivs med 5VDC från USB-C, ingen spänningsregulator på kortet
+
+## WeMos D1 Mini
+
+* Arkitektur: ESP8266
+* Spänningsregulator: inbyggd (5-3V3)
+* USB-C
+* CP2104 USB-UART
 
 ## Anslutning
 
