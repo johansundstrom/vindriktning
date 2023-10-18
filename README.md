@@ -8,7 +8,7 @@
 ## IKEA Vindriktning
 
 * (fynd ~100SEK) https://www.ikea.com/se/sv/p/vindriktning-luftkvalitetsmaetare-70498242/
-* Mäter PM25 (particulate matter 2.5µg/m^2)
+* Mäter PM25 (particulate matter 2.5µg/m^2^)
 * Drivs med 5VDC från USB-C, ingen spänningsregulator på kortet
 
 ## WeMos D1 Mini
